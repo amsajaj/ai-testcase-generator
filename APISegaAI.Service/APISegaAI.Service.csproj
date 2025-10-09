@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\APISegaAI.Domain\APISegaAI.Domain.csproj" />
+    <ProjectReference Include="..\APISegaAI.DAL\APISegaAI.DAL.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="closedxml" Version="0.96.0" />
+    <PackageReference Include="htmlagilitypack" Version="1.11.52" />
+    <PackageReference Include="microsoft.aspnetcore.http.abstractions" Version="2.2.0" />
+    <PackageReference Include="microsoft.extensions.http" Version="7.0.0" />
+    <PackageReference Include="microsoft.extensions.logging.abstractions" Version="7.0.0" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

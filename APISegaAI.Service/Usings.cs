@@ -1,0 +1,15 @@
+global using APISegaAI.Domain.Entity;
+global using APISegaAI.Domain.Enums;
+global using Microsoft.AspNetCore.Http;
+global using APISegaAI.Service.Interfaces;
+global using System.Text;
+global using System.Text.Json;
+global using Microsoft.Extensions.Logging;
+global using APISegaAI.DAL.Interfaces;
+global using Microsoft.Extensions.Configuration;
+global using ClosedXML.Excel;
+global using HtmlAgilityPack;
+global using System.Text.Json.Serialization;
+global using APISegaAI.Domain.ValueObjects;
+global using APISegaAI.Service.Helper;
+global using System.Globalization;

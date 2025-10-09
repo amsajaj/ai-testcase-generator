@@ -1,0 +1,14 @@
+global using APISegaAI.Domain;
+global using APISegaAI.Domain.Entity;
+global using APISegaAI.Domain.Enums;
+global using APISegaAI.Service.Interfaces;
+global using APISegaAI.Domain.Request;
+global using System.ComponentModel.DataAnnotations;
+global using Microsoft.AspNetCore.Mvc;
+global using APISegaAI.DAL;
+global using APISegaAI.DAL.Interfaces;
+global using APISegaAI.DAL.Repository;
+global using APISegaAI.Service.Implementations;
+global using System.Text.Json;
+global using APISegaAI.Service.Helper;
+global using Microsoft.EntityFrameworkCore;
